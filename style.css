@@ -69,7 +69,7 @@ li {
 main {
     background-attachment: fixed;
     background-size: cover;
-    background-image: url(jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg);
+    background-image: url("jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg");
 }
 
 
