@@ -69,9 +69,8 @@ li {
 main {
     background-attachment: fixed;
     background-size: cover;
-    background-image: url("jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg");
+    background-image: url('https://raw.githubusercontent.com/J-Loves/TheFuture/main/jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg');
 }
-
 
 .team h2 {
     margin-top: 30px;
